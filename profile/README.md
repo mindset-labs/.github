@@ -13,3 +13,12 @@ Success is to be measured by how many projects the community has released and ea
 In simple words, we must think of this as a social experiment running as a DAO. If it works, we can say that we were a part of a new social structure that may evolve into something bigger in the future.
 
 We are workings towards the ultimate goal of being an education & product development network-state operating on-chain.
+
+---
+
+## Links
+
+1. [Mindset Labs DAO - Website](https://mindsetlabs.io)
+2. [Senshi NeoGenesis - NFT Collection](https://x.com/InjectiveSenshi)
+3. [Educational Content - coming soon...]()
+4. [Web3 Memberships Tool on Injective - coming soon...]()

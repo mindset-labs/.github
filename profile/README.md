@@ -20,5 +20,5 @@ We are workings towards the ultimate goal of being an education & product develo
 
 1. [Mindset Labs DAO - Website](https://mindsetlabs.io)
 2. [Senshi NeoGenesis - NFT Collection](https://x.com/InjectiveSenshi)
-3. [Educational Content - coming soon...]()
-4. [Web3 Memberships Tool on Injective - coming soon...]()
+3. [Loyalty points & memberships API](https://github.com/mindset-labs/loyaltybank)
+4. Educational Content - coming soon...
